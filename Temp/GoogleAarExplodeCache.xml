@@ -1,0 +1,288 @@
+<aars>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-tasks-15.0.1</aar>
+    <modificationTime>2018-08-14T17:46:07.7632197+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.izlahy.lozenge</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-tasks-15.0.1.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-nearby-15.0.1</aar>
+    <modificationTime>2018-08-14T17:46:07.7379014+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.izlahy.lozenge</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-nearby-15.0.1.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-games-15.0.1</aar>
+    <modificationTime>2018-08-14T17:46:07.6772129+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.izlahy.lozenge</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-games-15.0.1.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-drive-15.0.1</aar>
+    <modificationTime>2018-08-14T17:46:07.6257255+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.izlahy.lozenge</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-drive-15.0.1.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-base-15.0.1</aar>
+    <modificationTime>2018-08-14T17:46:07.5737946+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.izlahy.lozenge</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-base-15.0.1.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-auth-base-15.0.1</aar>
+    <modificationTime>2018-08-14T17:46:07.4892667+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.izlahy.lozenge</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-auth-base-15.0.1.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-auth-api-phone-15.0.1</aar>
+    <modificationTime>2018-08-14T17:46:07.4612707+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.izlahy.lozenge</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-auth-api-phone-15.0.1.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-auth-15.0.1</aar>
+    <modificationTime>2018-08-14T17:46:07.4445341+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.izlahy.lozenge</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-auth-15.0.1.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-gass-15.0.1</aar>
+    <modificationTime>2018-08-14T17:46:07.6931730+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.izlahy.lozenge</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-gass-15.0.1.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-basement-15.0.1</aar>
+    <modificationTime>2018-08-14T17:46:07.5897784+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.izlahy.lozenge</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-basement-15.0.1.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-ads-lite-15.0.1</aar>
+    <modificationTime>2018-08-14T17:46:07.2873318+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.izlahy.lozenge</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-ads-lite-15.0.1.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-ads-identifier-15.0.1</aar>
+    <modificationTime>2018-08-14T17:46:07.2753502+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.izlahy.lozenge</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-ads-identifier-15.0.1.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-ads-base-15.0.1</aar>
+    <modificationTime>2018-08-14T17:46:07.2633637+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.izlahy.lozenge</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-ads-base-15.0.1.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-ads-15.0.1</aar>
+    <modificationTime>2018-08-14T17:46:07.2473856+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.izlahy.lozenge</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-ads-15.0.1.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-v4-26.1.0</aar>
+    <modificationTime>2018-08-14T17:46:07.2354009+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.izlahy.lozenge</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-v4-26.1.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-media-compat-26.1.0</aar>
+    <modificationTime>2018-08-14T17:46:07.2234182+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.izlahy.lozenge</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-media-compat-26.1.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-fragment-26.1.0</aar>
+    <modificationTime>2018-08-14T17:46:07.2074493+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.izlahy.lozenge</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-fragment-26.1.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-core-utils-26.1.0</aar>
+    <modificationTime>2018-08-14T17:46:07.1892680+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.izlahy.lozenge</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-core-utils-26.1.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-core-ui-26.1.0</aar>
+    <modificationTime>2018-08-14T17:46:07.1732930+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.izlahy.lozenge</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-core-ui-26.1.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-compat-26.1.0</aar>
+    <modificationTime>2018-08-14T17:46:07.1512033+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.izlahy.lozenge</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-compat-26.1.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-annotations-26.1.0</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.izlahy.lozenge</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-annotations-26.1.0.jar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.customtabs-26.1.0</aar>
+    <modificationTime>2018-08-14T17:46:07.1161113+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.izlahy.lozenge</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.customtabs-26.1.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>android.arch.lifecycle.runtime-1.0.0</aar>
+    <modificationTime>2018-08-14T17:46:07.1030341+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.izlahy.lozenge</bundleId>
+    <path>Assets/Plugins/Android/android.arch.lifecycle.runtime-1.0.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>android.arch.lifecycle.common-1.0.0</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.izlahy.lozenge</bundleId>
+    <path>Assets/Plugins/Android/android.arch.lifecycle.common-1.0.0.jar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>android.arch.core.common-1.0.0</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.izlahy.lozenge</bundleId>
+    <path>Assets/Plugins/Android/android.arch.core.common-1.0.0.jar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.games.gpgs-plugin-support-0.9.50</aar>
+    <modificationTime>2018-08-14T17:46:07.7871885+05:30</modificationTime>
+    <explode>true</explode>
+    <bundleId>com.izlahy.lozenge</bundleId>
+    <path>Assets/Plugins/Android\com.google.games.gpgs-plugin-support-0.9.50</path>
+    <targetAbi>fat</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+</aars>
